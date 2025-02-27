@@ -7,4 +7,4 @@ Students | Bloggers | Developers | UPmasters
 
 Welcome to my blog!  [Click here](https://peter267.github.io)
 
-[More about me ...](https://peter267.zeabur.app/about/)
+[More about me ...](https://peter267.github.io/about/)
