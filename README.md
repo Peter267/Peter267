@@ -9,4 +9,4 @@ Welcome to my blog!  [Click here](https://peter267.github.io)
 
 [More about me ...](https://peter267.github.io/about/)
 
-https://count.getloli.com/@peter267-profile?name=peter267-profile&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
+![MoeCounter](https://count.getloli.com/@peter267-profile?name=peter267-profile&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
