@@ -13,6 +13,10 @@ Welcome to my blog!  [Click here](https://peter267.github.io)
 
 [More about me ...](https://peter267.github.io/about/)
 
+### 🐍Voracious Snake
+---
+![Snake](https://raw.githubusercontent.com/Peter267/Peter267/output/github-contribution-grid-snake.svg)
+
 ### 🏆 Trophy
 ---
 <p align="center">
