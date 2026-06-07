@@ -41,7 +41,7 @@ Welcome to my blog!  [Click here](https://peter267.github.io)
 
 ### 💻 Languages
 ---
-![Language](https://github.com/willow-god/willow-god/raw/main/static/icons.png) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter267&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Language](https://github.com/willow-god/willow-god/raw/main/static/icons.png) [![Top Langs](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
