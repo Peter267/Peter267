@@ -21,7 +21,7 @@ Welcome to my blog!  [Click here](https://peter267.github.io)
 ---
 <p align="center">
   <a href="https://peter267.github.io">
-    <img src="https://github-profile-trophy.vercel.app/?username=Peter267&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+    <img src="https://trophy.benkou.dev/?username=Peter267&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@ Welcome to my blog!  [Click here](https://peter267.github.io)
   </a>
 </p>
 
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter267)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Peter267)](https://git.io/streak-stats)
+[![Peter's GitHub stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Peter267)](https://git.io/streak-stats)
 
 ### 💻 Languages
 ---
